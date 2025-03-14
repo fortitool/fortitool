@@ -12,7 +12,7 @@ FortiTool is a collection of powerful Python scripts designed to help Fortinet p
 ## 🚀 Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fortitool.git
+   git clone https://github.com/fortitool/fortitool.git
    ```
 2. **Install dependencies:**
    ```bash
